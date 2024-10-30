@@ -68,3 +68,6 @@
 [7.] CORS (Cross-Origin Resource Sharing)
 [8.] Security Headers
 [9.] Security Monitoring
+
+
+![alt text](https://github.com/shri50/cheatsheet/blob/main/images/API.jpeg)
